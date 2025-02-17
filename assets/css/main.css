@@ -1035,11 +1035,11 @@ section,
   font-size: 56px;
   font-weight: 700;
   font-family: var(--nav-font);
-  color:#2e6b50;
+  color:#A6D9C2;
 }
 
 .hero h2 span {
-  color:#2e6b50;
+  color:#A6D9C2;
 }
 
 .hero p {
@@ -1066,7 +1066,7 @@ section,
 .hero .icon-box i {
   font-size: 32px;
   line-height: 1;
-  color: var(--accent-color);
+  color: #A6D9C2;
 }
 
 .hero .icon-box h3 {
